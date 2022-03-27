@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body  {
+    background: rgb(182, 168, 184);
+    }
+
+
+
+.start_button
+.quiz_box 
+.result-box {
+    position:  absolute;
+    top: 50%;
+    left: 50%;
+    
+}
